@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Meron
+- 👀 I’m interested in Front End development
+- 🌱 I’m currently learning computer science And Enginering in ASTU
+- 💞️ I’m looking to collaborate mostly on website development ...
+- 📫And you can reach me though my email merongedamu2@gmail.com
